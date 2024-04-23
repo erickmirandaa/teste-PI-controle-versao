@@ -1,0 +1,25 @@
+-------------------------------
+	COMANDOS DO GIT
+-------------------------------
+
+ls -> para ver arquivos dentro da pasta
+
+git init -> inicia os arquivos que serão usados para o controle de versão
+
+git add -A -> adiciona todos os arquivos
+
+git status -> verifica os arquivos adicionados, modificados etc
+
+git commit -m "aqui vai a mensagem" -> congela uma versao do arquivo
+
+git remote add origin https://github.com/erickmirandaa/teste-PI-controle-versao.git -> esse comando é para definir onde o código será enviado
+
+git push -u origin master -> esse comando para enviar no github
+
+----------------------------------------------------------------------------------------------
+	OBS: fiz esse txt para teste e tentar ajudar a vocês utilizarem o git
+----------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------
+	VIDEO DE REFERENCIA: https://www.youtube.com/watch?v=LOQT9bb0dG0&t=162s&ab_channel=DevAprender%7CJhonatandeSouza
+--------------------------------------------------------------------------------------------------------------------------------
