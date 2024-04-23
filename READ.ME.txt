@@ -1,5 +1,5 @@
 -------------------------------
-	COMANDOS DO GIT
+	COMANDOS DO GIT 
 -------------------------------
 
 ls -> para ver arquivos dentro da pasta
